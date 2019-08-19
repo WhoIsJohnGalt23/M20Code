@@ -488,7 +488,7 @@ button.btn.btn-danger {
   transition: opacity 3s;
   opacity: 0;
 /*     transition: transform 0.5s;
-    transform: rotateY(90deg);
+    transform: rotateY(0deg);
     transform-origin: none; */
 }
 
