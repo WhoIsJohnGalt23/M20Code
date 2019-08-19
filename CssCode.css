@@ -487,9 +487,9 @@ button.btn.btn-danger {
     height: 100%;
   transition: opacity 3s;
   opacity: 0;
-/*     transition: transform 0.5s;
-    transform: rotateY(0deg);
-    transform-origin: none; */
+/*     transition: transform 0.2s;
+    transform: rotateY(90deg);
+    transform-origin: left; */
 }
 
 .stories ul li input[type="radio"] {
