@@ -274,7 +274,7 @@ div#oplayeroftheweek-container .col-8.py-2.pl-0 .text-center , div#dplayerofthew
 div#oplayeroftheweek-container .col-8.py-2.pl-0 .text-center  h3.mt-0 , div#dplayeroftheweek-container .col-8.py-2.pl-0 .text-center h3.mt-0 {font-size: 1rem; }
 div#dplayeroftheweek-container .card.flex-row.align-items-center.align-items-stretch.border-0.mb-0, div#oplayeroftheweek-container .card.flex-row.align-items-center.align-items-stretch.border-0.mb-0 {    height: 150px;}
 .col-8.py-2.pl-0 {    text-align: center;    margin: auto;}
-div#dplayeroftheweek-container, div#oplayeroftheweek-container { background: url(https://i.imgur.com/qa2hV4o.jpg); background-size: cover; background-position: 0px -22px;} 
+div#dplayeroftheweek-container, div#oplayeroftheweek-container { background: url(https://i.imgur.com/Otjpvun.png?1); background-size: cover; background-position: 0px -22px;} 
 
 /*PLAYOFF CHASE*/
 div#afc-playoff-container small.text-muted.ml-2, div#nfc-playoff-container small.text-muted.ml-2 {    display: none;}
