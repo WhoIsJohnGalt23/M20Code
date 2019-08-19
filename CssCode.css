@@ -145,7 +145,7 @@ div#js-ticker-fade div#scores .row.row-flush.cfm-team-schedule h4.mt-3 a {    fo
 /***Scoreboard***/
 a#yui_259:hover {    background: url(https://i.imgur.com/n5cClE4.png) no-repeat scroll 0 0 #343a407a;    color: #ffffff!important;    text-decoration: none;    background-size: 12%, 0% !important;    background-position: 50% !important;    background-repeat: no-repeat !important;}
 div#js-ticker-fade .h2.m-0.text-bold, div#js-ticker-fade .text-muted {   background: linear-gradient(to top,white 31%, #c3ced2 52%, #efefef 65%);    -webkit-background-clip: text;      -webkit-text-fill-color: #ffffff; -webkit-text-stroke: .05px #607D8B;    font-family: inherit;}
-.cfm-score-score {right: unset;    text-align: center;    font-size: 1.6rem;    width: 110px;    letter-spacing: -1px;}
+.cfm-score-score {right: unset;    text-align: center;    font-size: 1.6rem;    width: 140px;    letter-spacing: -1px;}
 .cfm-score {height: 40px; border-right: none; }
 .cfm-score-index-0 {  min-width: 50%;}
 .yui3-scorestrip-tile-bigplay .yui3-scorestrip-tile-alert-box, .yui3-scorestrip-tile-bigplay .yui3-scorestrip-tile-content, .yui3-scorestrip-tile-content:hover, .yui3-scorestrip-tile-content:hover>span {    color: #ffffff!important;    text-decoration: none;    background: url(https://i.imgur.com/n5cClE4.png), #616161 !important;    background-size: 10% !important;    background-position: 46% !important;    background-repeat: no-repeat !important;}
