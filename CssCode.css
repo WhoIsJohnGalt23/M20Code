@@ -157,7 +157,7 @@ span.col-12.cfm-score-hta.cfm-score-home.cfm-score-abbr { font-size: larger!impo
 span.col-12.cfm-score-vta.cfm-score-visitor.cfm-score-abbr {  font-size: larger!important; }
 }
 @media screen and (max-width: 500px) {
-.cfm-score-index-0 {    min-width: 130%!important;}
+.cfm-score-index-0 {    min-width: 100%!important;}
 }
 span.col-12.cfm-score-hta.cfm-score-home.cfm-score-abbr {  color: white;  font-size: large;       left: -2vw;  top: 12px;   text-align: right;}
 span.col-12.cfm-score-vta.cfm-score-visitor.cfm-score-abbr {   color: white; font-size: large;    top: 12px;  text-align: left;}
