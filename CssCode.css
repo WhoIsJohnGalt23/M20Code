@@ -415,13 +415,13 @@ div#cardChart9 {    display: none;}
 	.breadcrumb { background-color: #e9ecef00;} 
 	table.data-table2 tr:hover { background-color: #00000000;} 
 	body { color: #e9ecef;} 
-	a { color: #DAA520;} 
+	a { color: #7b7b7b;} 
 	.text-muted, .table>thead>tr>th, .table>tbody>tr>td { color: #dee2e6!important;} 
 	img#logo { width: 40px; height: 35px;padding-right: 5px; } 
 	table.responsive.dl-table1 { white-space: nowrap;} 
 	table.responsive { white-space: nowrap;} 
 	.form-control { background-color: #dee2e62e; color: white;} 
-	table.dl-table1 .thd1 td { background-color: #29518300; color: #DAA520; text-decoration: underline;} 
+	table.dl-table1 .thd1 td { background-color: #7b7b7b; color: #DAA520; text-decoration: underline;} 
 	table.dl-table1 .thd1 td a, table.dl-table1 .thd1 th a { color: #007bff;} 
 	.card{ background: transparent;} 
 	tr.thd2 td { color: #ddd!important;} 
