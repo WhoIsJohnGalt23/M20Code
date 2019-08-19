@@ -135,8 +135,8 @@ div#js-ticker-fade div#scores .row.row-flush.cfm-team-schedule .col-3 { top: -16
 div#js-ticker-fade div#scores .card.b.mb-2 {  height: 45px;}
 div#js-ticker-fade div#scores .row.row-flush.cfm-team-schedule {    height: 50px;}
 div#js-ticker-fade div#scores .row.row-flush.cfm-team-schedule .h2.m-0.text-bold {     top: 5px;    position: relative;   font-size: 1.5rem!important; }
-div#js-ticker-fade div#scores .row.row-flush.cfm-team-schedule .col-2 .card-body.text-center .m-0.text-muted.text-uppercase {    font-size: .75rem;    float: right;    width: 100px;    position: relative;}
-div#js-ticker-fade div#scores .row.row-flush.cfm-team-schedule .col-3 .card-body.text-center .m-0.text-muted.text-uppercase {       font-size: .75rem!important;  position: relative;    width: 100px;}
+div#js-ticker-fade div#scores .row.row-flush.cfm-team-schedule .col-2 .card-body.text-center .m-0.text-muted.text-uppercase {    font-size: .75rem;    float: right;    width: 120px;    position: relative;}
+div#js-ticker-fade div#scores .row.row-flush.cfm-team-schedule .col-3 .card-body.text-center .m-0.text-muted.text-uppercase {       font-size: .75rem!important;  position: relative;    width: 120px;}
 div#js-ticker-fade div#scores .row.row-flush.cfm-team-schedule .col-3 .card-body.text-center .m-0.text-muted.text-uppercase {      border-top: none;    border-left: none;    border-right: none;}
 div#js-ticker-fade div#scores .row.row-flush.cfm-team-schedule .col-3.text-center.d-flex.align-items-end.justify-content-end.rounded-right .h2.m-0.text-bold {    font-size: 1.5rem!important;    top: 5px;    position: relative;}
 div#js-ticker-fade div#scores .row.row-flush.cfm-team-schedule h4.mt-3 a:hover {    color: white!important;}
