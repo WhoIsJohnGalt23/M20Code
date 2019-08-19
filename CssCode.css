@@ -56,15 +56,15 @@ div#disappear {    width: -webkit-fill-available!important;}
     100% {        background-position: 12.5rem top; /*200px*/    }
 }
 
-a.dropdown-item:nth-child(1) {animation: fadein-slidedown ease 1.8s;}
+a.dropdown-item:nth-child(1) {animation: fadein-slidedown ease 0s;}
  @keyframes fadein-slidedown {  from {   opacity: 0;    transform: translateY(-20px);  }    to {    opacity: 1;    transform: translateY(0);  }}
-a.dropdown-item:nth-child(2) {animation: fadein-slidedown ease 1.6s;}
+a.dropdown-item:nth-child(2) {animation: fadein-slidedown ease 0s;}
  @keyframes fadein-slidedown {  from {   opacity: 0;    transform: translateY(-20px);  }    to {    opacity: 1;    transform: translateY(0);  }}
-a.dropdown-item:nth-child(3) {animation: fadein-slidedown ease 1.4s;}
+a.dropdown-item:nth-child(3) {animation: fadein-slidedown ease 0s;}
  @keyframes fadein-slidedown {  from {   opacity: 0;    transform: translateY(-20px);  }    to {    opacity: 1;    transform: translateY(0);  }}
-a.dropdown-item:nth-child(4) {animation: fadein-slidedown ease 1.2s;}
+a.dropdown-item:nth-child(4) {animation: fadein-slidedown ease 0s;}
  @keyframes fadein-slidedown {  from {   opacity: 0;    transform: translateY(-20px);  }    to {    opacity: 1;    transform: translateY(0);  }}
-a.dropdown-item:nth-child(5) {animation: fadein-slidedown ease 1s;}
+a.dropdown-item:nth-child(5) {animation: fadein-slidedown ease 0s;}
  @keyframes fadein-slidedown {  from {   opacity: 0;    transform: translateY(-20px);  }    to {    opacity: 1;    transform: translateY(0);  }}
 
 ul.list-unstyled li.nav-item:nth-child(1) {animation: fadein-slidedown ease 1.6s;}
@@ -76,56 +76,56 @@ ul.list-unstyled li.nav-item:nth-child(3) {animation: fadein-slidedown ease 1.2s
 ul.list-unstyled li.nav-item:nth-child(4) {animation: fadein-slidedown ease 1s;}
  @keyframes fadein-slidedown {  from {   opacity: 0;    transform: translateY(-20px);  }    to {    opacity: 1;    transform: translateY(0);  }}
 
-tr.tbdy1:nth-child(1) {animation: fadein-slidedown ease .2s;}
-tr.tbdy1:nth-child(2) {animation: fadein-slidedown ease .4s;}
-tr.tbdy1:nth-child(3) {animation: fadein-slidedown ease .6s;}
-tr.tbdy1:nth-child(4) {animation: fadein-slidedown ease .8s;}
-tr.tbdy1:nth-child(5) {animation: fadein-slidedown ease 1s;}
-tr.tbdy1:nth-child(6) {animation: fadein-slidedown ease 1s;}
-tr.tbdy1:nth-child(7) {animation: fadein-slidedown ease 1s;}
-tr.tbdy1:nth-child(8) {animation: fadein-slidedown ease 1s;}
-tr.tbdy1:nth-child(9) {animation: fadein-slidedown ease 1s;}
-tr.tbdy1:nth-child(10) {animation: fadein-slidedown ease 1s;}
-tr.tbdy1:nth-child(11) {animation: fadein-slidedown ease .2s;}
-tr.tbdy1:nth-child(12) {animation: fadein-slidedown ease .4s;}
-tr.tbdy1:nth-child(13) {animation: fadein-slidedown ease .6s;}
-tr.tbdy1:nth-child(14) {animation: fadein-slidedown ease .8s;}
-tr.tbdy1:nth-child(15) {animation: fadein-slidedown ease 1s;}
-tr.tbdy1:nth-child(16) {animation: fadein-slidedown ease .2s;}
-tr.tbdy1:nth-child(17) {animation: fadein-slidedown ease .4s;}
-tr.tbdy1:nth-child(18) {animation: fadein-slidedown ease .6s;}
-tr.tbdy1:nth-child(19) {animation: fadein-slidedown ease .8s;}
-tr.tbdy1:nth-child(20) {animation: fadein-slidedown ease 1s;}
-tr.tbdy1:nth-child(21) {animation: fadein-slidedown ease .2s;}
-tr.tbdy1:nth-child(22) {animation: fadein-slidedown ease .4s;}
-tr.tbdy1:nth-child(23) {animation: fadein-slidedown ease .6s;}
-tr.tbdy1:nth-child(24) {animation: fadein-slidedown ease .8s;}
-tr.tbdy1:nth-child(25) {animation: fadein-slidedown ease 2s;}
-tr.tbdy1:nth-child(26) {animation: fadein-slidedown ease .2s;}
-tr.tbdy1:nth-child(27) {animation: fadein-slidedown ease .4s;}
-tr.tbdy1:nth-child(28) {animation: fadein-slidedown ease .6s;}
-tr.tbdy1:nth-child(29) {animation: fadein-slidedown ease .8s;}
-tr.tbdy1:nth-child(30) {animation: fadein-slidedown ease 2s;}
-tr.tbdy1:nth-child(31) {animation: fadein-slidedown ease .2s;}
-tr.tbdy1:nth-child(32) {animation: fadein-slidedown ease .4s;}
-tr.tbdy1:nth-child(33) {animation: fadein-slidedown ease .6s;}
-tr.tbdy1:nth-child(34) {animation: fadein-slidedown ease .8s;}
-tr.tbdy1:nth-child(35) {animation: fadein-slidedown ease 2s;}
-tr.tbdy1:nth-child(36) {animation: fadein-slidedown ease .2s;}
-tr.tbdy1:nth-child(37) {animation: fadein-slidedown ease .4s;}
-tr.tbdy1:nth-child(38) {animation: fadein-slidedown ease .6s;}
-tr.tbdy1:nth-child(39) {animation: fadein-slidedown ease .8s;}
-tr.tbdy1:nth-child(40) {animation: fadein-slidedown ease 2s;}
-tr.tbdy1:nth-child(41) {animation: fadein-slidedown ease .2s;}
-tr.tbdy1:nth-child(42) {animation: fadein-slidedown ease .4s;}
-tr.tbdy1:nth-child(43) {animation: fadein-slidedown ease .6s;}
-tr.tbdy1:nth-child(44) {animation: fadein-slidedown ease .8s;}
-tr.tbdy1:nth-child(45) {animation: fadein-slidedown ease 2s;}
-tr.tbdy1:nth-child(46) {animation: fadein-slidedown ease .2s;}
-tr.tbdy1:nth-child(47) {animation: fadein-slidedown ease .4s;}
-tr.tbdy1:nth-child(48) {animation: fadein-slidedown ease .6s;}
-tr.tbdy1:nth-child(49) {animation: fadein-slidedown ease .8s;}
-tr.tbdy1:nth-child(50) {animation: fadein-slidedown ease 4s;}
+tr.tbdy1:nth-child(1) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(2) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(3) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(4) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(5) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(6) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(7) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(8) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(9) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(10) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(11) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(12) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(13) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(14) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(15) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(16) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(17) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(18) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(19) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(20) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(21) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(22) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(23) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(24) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(25) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(26) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(27) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(28) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(29) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(30) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(31) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(32) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(33) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(34) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(35) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(36) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(37) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(38) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(39) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(40) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(41) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(42) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(43) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(44) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(45) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(46) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(47) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(48) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(49) {animation: fadein-slidedown ease 0s;}
+tr.tbdy1:nth-child(50) {animation: fadein-slidedown ease 0s;}
 
  /*new scoreboard***/
 div#js-ticker-fade div#scores .row.row-flush.cfm-team-schedule .col-1.text-center.d-flex.align-items-center.justify-content-center.rounded-left {display: none!important;}
